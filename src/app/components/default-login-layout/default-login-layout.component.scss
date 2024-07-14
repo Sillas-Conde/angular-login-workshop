@@ -75,7 +75,7 @@ main {
 
             button {
                 width: 100%;
-                border-radius: 8px;
+                border-radius:s 8px;
                 font-size: 16px;
                 font-weight: 500;
                 border: none;
@@ -84,7 +84,7 @@ main {
                 cursor: pointer;
 
                 &.disabled {
-                    opacity: 0.8;
+                    opacity: 0.2;
                 }
     
                 &.loginBtn {
